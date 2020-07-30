@@ -1,0 +1,4 @@
+# Anti_depressing_Chat_bot
+There are lot of employee who are facing the personal and professional problem which they can’t share with everyone. These problem effect their productivity at a great extent. Due to lack of their productivity company losses lot of money.
+The chat bot will able to do sentimental analysis on the chat it receive on the platform and even it will able to detect serious depression. If it find anyone is in serious mental depression condition it will help the company can track it through the report the programs make and the company can maintain a good mental health by giving him a vacation or suggest a free medical leave anomalously.
+This will change the way we fight depression as there are many people who don't even now they are depress or not because they don't even know how to measure the depression and its effect in their body.
